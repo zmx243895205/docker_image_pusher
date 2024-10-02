@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #centos:centos7.9.2009
 #gitlab/gitlab-ce
---platform linux/arm64 jeessy/ddns-go
+#--platform linux/arm64 jeessy/ddns-go
+--platform linux/arm64 gitlab/gitlab-ce-qa:latest
