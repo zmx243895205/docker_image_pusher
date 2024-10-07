@@ -8,4 +8,5 @@
 #gitlab/gitlab-ce
 #--platform linux/arm64 jeessy/ddns-go
 #--platform linux/arm64 gitlab/gitlab-ce-qa:latest
---platform linux/arm64/v8 centos:centos7.9.2009
+#--platform linux/arm64/v8 centos:centos7.9.2009
+--platform linux/arm64 uozi/nginx-ui:latest
