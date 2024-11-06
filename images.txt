@@ -12,4 +12,5 @@
 #--platform linux/arm64 uozi/nginx-ui:latest
 #--platform linux/arm64 mysql:lts
 #--platform linux/arm64/v8 rabbitmq:management
-rabbitmq:management
+#rabbitmq:management
+--platform linux/arm64/v8 redis:latest
