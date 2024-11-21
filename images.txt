@@ -8,10 +8,11 @@
 #gitlab/gitlab-ce
 #--platform linux/arm64 jeessy/ddns-go
 #--platform linux/arm64 gitlab/gitlab-ce-qa:latest
---platform=linux/arm64 yrzr/gitlab-ce-arm64v8:latest
+#--platform=linux/arm64 yrzr/gitlab-ce-arm64v8:latest
 #--platform linux/arm64/v8 centos:centos7.9.2009
 #--platform linux/arm64 uozi/nginx-ui:latest
 #--platform linux/arm64 mysql:lts
 #--platform linux/arm64/v8 rabbitmq:management
 #rabbitmq:management
 #--platform linux/arm64/v8 redis:latest
+--platform linux/arm64/v8 debian:stable-slim
