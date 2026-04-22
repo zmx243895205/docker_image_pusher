@@ -16,4 +16,5 @@
 #rabbitmq:management
 #--platform linux/arm64/v8 redis:latest
 #--platform linux/arm64/v8 debian:stable-slim
---platform linux/arm64/v8 nginx:stable-perl
+#--platform linux/arm64/v8 nginx:stable-perl
+--platform linux/x86/v8 sebp/elk:9.0.4
