@@ -20,4 +20,5 @@
 #--platform linux/x86/v8 sebp/elk:9.0.4
 #--platform linux/arm64/v8 metacubex/mihomo:latest
 #--platform linux/arm64/v8 nousresearch/hermes-agent:latest
---platform linux/arm64/v8 postgres:latest
+#--platform linux/arm64/v8 postgres:latest
+--platform linux/arm64/v8 neilpang/acme.sh:latest
