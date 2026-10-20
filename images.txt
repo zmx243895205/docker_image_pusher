@@ -23,4 +23,5 @@
 #--platform linux/arm64/v8 postgres:latest
 #--platform linux/arm64/v8 neilpang/acme.sh:latest
 #--platform linux/arm64/v8 elestio/minio:latest
---platform linux/arm64/v8 maven:3.9-eclipse-temurin-17
+#--platform linux/arm64/v8 maven:3.9-eclipse-temurin-17
+--platform linux/arm64/v8 eclipse-temurin:17-jre-jammy
